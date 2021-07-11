@@ -13,6 +13,5 @@ https://flightaware.com/adsb/piaware/claim
 ## 2. Setup FR24
 Download and install the FlightRadar24 install script (fr24.sh).
 
-``
 
 
