@@ -1,10 +1,18 @@
 # ADS-B-Reciever-Improved
 Combining Flightradar24 + Flightaware on the same PI, doing stuff with it
 
-## 1. Setup
-Download and install the PiAware repository package.
+## 1. Setup PiAware
+- Download and install the PiAware install script (piaware.sh).
 
-```wget https://flightaware.com/adsb/piaware/files/packages/pool/piaware/p/piaware-support/piaware-repository_5.0_all.deb```
-```sudo dpkg -i piaware-repository_5.0_all.deb```
+`sudo bash -c "$(wget -O - )" `
 
-test commit3
+- Claim your PiAware client on FlightAware.com. Create an account if you do not have one.
+
+https://flightaware.com/adsb/piaware/claim
+
+## 2. Setup FR24
+Download and install the FlightRadar24 install script (fr24.sh).
+
+``
+
+
