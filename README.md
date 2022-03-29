@@ -15,5 +15,6 @@ https://flightaware.com/adsb/piaware/claim
 
 `sudo bash -c "$(wget -O - https://repo-feed.flightradar24.com/install_fr24_rpi.sh)"`
 
+- Then follow the prompts to enter your fr24 account information and your latitude and longitude.
 
 
