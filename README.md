@@ -11,7 +11,9 @@ Combining Flightradar24 + Flightaware on the same PI, doing stuff with it
 https://flightaware.com/adsb/piaware/claim
 
 ## 2. Setup FR24
-Download and install the FlightRadar24 install script (fr24.sh).
+- All you need to do for this one is:
+
+`sudo bash -c "$(wget -O - https://repo-feed.flightradar24.com/install_fr24_rpi.sh)"`
 
 
 
